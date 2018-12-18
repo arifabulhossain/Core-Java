@@ -1,14 +1,11 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ True/false - boolean
+characters - char
+Floating point - float, double
+Integer - byte,short,int,long
  */
 package basicjava1;
 
-/**
- *
- * @author User
- */
 public class DataType {
     public static void main(String[] args) {
         boolean b = true;
