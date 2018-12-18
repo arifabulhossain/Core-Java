@@ -4,7 +4,7 @@ char - %c,
 intteger - %d,
 floating point - %f
  */
-package basicjava1;
+package home_17_Dec_18;
 
 
 public class FormatSpecifier {

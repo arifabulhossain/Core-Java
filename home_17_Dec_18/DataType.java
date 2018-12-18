@@ -4,7 +4,7 @@ characters - char
 Floating point - float, double
 Integer - byte,short,int,long
  */
-package basicjava1;
+package home_17_Dec_18;
 
 public class DataType {
     public static void main(String[] args) {
