@@ -1,0 +1,27 @@
+/*
+1.5+2.5+3.5+.......+n;
+ */
+package home_07_jan_19.pkg01;
+
+import java.util.Scanner;
+
+/**
+ *
+ * @author User
+ */
+public class SeriesLoop_03 {
+
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        double n, sum = 0;
+        System.out.println("Enter the last number :");
+        n = input.nextDouble();
+        for (double i = 1.5; i <= n; i = i + 1) {
+            System.out.print(i + " ");
+            sum = sum + i;
+
+        }
+        System.out.println("");
+        System.out.println(sum);
+    }
+}
